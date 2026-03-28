@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maxc.github.io/sitemap.xml
